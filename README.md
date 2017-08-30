@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-###Background
+### Background
 We are a small team of developers working at CA technologies.  
 Every time there's a bug or something like that everyone tries to nail the job on anyone but themselves. When we can’t reach an agreement we simply throw it on Sharon. We have decided to take it to another level.  
 **BlameHub** scans your Git repository and indexes your commit messages in Solr. Search for your bug to find the scapegoat. Or… just pin it on Sharon.
